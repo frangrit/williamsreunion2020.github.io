@@ -30,17 +30,23 @@ Slightly further afield are the communities of Arch Cape and Cannon Beach, a 10-
 
 ## 🤔 Good to know
 
-TK
+The main thing we want to stress is that coastal weather can be unpredictable and sometimes cold and wet. Bring layers. More soon!
 
-What do you want to know? [Email Dano and Fran.](mailto:francesduncan@gmail.com)
+(What do you want to know? [Email Dano and Fran.](mailto:francesduncan@gmail.com))
 
 ## 🎉 Family activities + events
 
-TK
+We plan to coordinate family potlucks and cookouts, plus local group activities like paddleboarding, tidepooling, pickle ball playing, hiking, fish-and-chip eating, and pub crawling. More detail as we get closer to the date; let us know if there is an activity you'd like to host.
 
 ## 🏄‍♀️ Other things to do
 
-TK
+We'll collect a few ideas for local activities and sights.
+
+
+-- 
+
+_This site is maintained by Dano and Fran._  
+_[Email us with questions](mailto:francesduncan@gmail.com) or [create a pull request](https://github.com/frangrit/williams-2020) to edit directly._
 
 
 
