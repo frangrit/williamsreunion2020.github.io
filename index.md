@@ -1,4 +1,4 @@
-# Williams family reunion 2020
+# 🎉 Williams family reunion 2020 
 
 - **When:** June 28 - July 5
 - **Where:** Manzanita, OR
@@ -6,9 +6,9 @@
 
 ## 📍 Location
 
-The reunion nexus is at Dan and Debbie Williams' house, at [30 Hallie Lane, Manzanita](https://goo.gl/maps/EYK9GneynYkbYz5w9). Manzanita is a small town; anything in town will be close. In particular, the areas around Beach St., Carmel Ave., and Laneda Ave. will be within walking distance of Dan and Debbie's and the beach.
+The reunion nexus is at Dan and Debbie Williams' house, at [30 Hallie Lane, Manzanita, OR](https://goo.gl/maps/EYK9GneynYkbYz5w9). Manzanita is a charming little beach town; just about anywhere in town will be close enough. In particular, the areas around Beach St., Carmel Ave., and Laneda Ave. are within walking distance of Dan and Debbie's and the beach.
 
-Debbie suggests working with a local realtor to rent a place.
+Debbie suggests working with a local realtor to rent a place and recommends this one:
 
 Charlotte Walton  
 503-368-2929  
@@ -30,23 +30,22 @@ Slightly further afield are the communities of Arch Cape and Cannon Beach, a 10-
 
 ## 🤔 Good to know
 
-The main thing we want to stress is that coastal weather can be unpredictable and sometimes cold and wet. Bring layers. More soon!
+For now, the main thing we want to stress is that coastal weather can be unpredictable and sometimes cold and wet. Adjust your expectations -- and bring layers. More soon!
 
 (What do you want to know? [Email Dano and Fran.](mailto:francesduncan@gmail.com))
 
-## 🎉 Family activities + events
+## 🗓️ Family activities + events
 
-We plan to coordinate family potlucks and cookouts, plus local group activities like paddleboarding, tidepooling, pickle ball playing, hiking, fish-and-chip eating, and pub crawling. More detail as we get closer to the date; let us know if there is an activity you'd like to host.
+We plan to coordinate family potlucks and cookouts, plus local group activities like paddleboarding, tidepooling, pickle ball playing, hiking, fish-and-chip eating, and pub crawling. More details as we get closer to the date; let us know if there is an activity you'd like to host.
 
 ## 🏄‍♀️ Other things to do
 
-We'll collect a few ideas for local activities and sights.
+We'll collect a few ideas for local activities and sights aside from the group gatherings.
 
 
--- 
 
-_This site is maintained by Dano and Fran._  
-_[Email us with questions](mailto:francesduncan@gmail.com) or [create a pull request](https://github.com/frangrit/williams-2020) to edit directly._
+
+> This site is maintained by Dano and Fran. [Email us with questions and suggestions](mailto:francesduncan@gmail.com) or [create a pull request](https://github.com/frangrit/williams-2020) to edit directly.
 
 
 
