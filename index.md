@@ -19,11 +19,11 @@ You might also try [Airbnb](https://www.airbnb.com/s/Manzanita--OR) or [Vacasa](
 
 Slightly further afield are the communities of Arch Cape and Cannon Beach, a 10-20 minute drive from Manzanita.
 
-[map]
+[map tk]
 
 ### 🙋 Who's coming
 
-✅ Dan and Debbie; Dano, Fran, and Elliot (30 Hallie Ln.)  
+✅ Dan and Debbie; Dano, Fran, and Elliot; Jamie, Lozen, and Tula (30 Hallie Ln.)  
 ✅ Ferrigan and Sanders clan; John Williams (96 Merton St.)  
 ✅ Peters, Schaefer, Pofcher clan (TBD)  
 
