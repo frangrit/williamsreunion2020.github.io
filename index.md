@@ -19,20 +19,17 @@ You might also try [Airbnb](https://www.airbnb.com/s/Manzanita--OR) or [Vacasa](
 
 Slightly further afield are the communities of Arch Cape and Cannon Beach, a 10-20 minute drive from Manzanita.
 
-[map tk]
+Manzanita is a two-hour drive from Portland.
 
 ### 🙋 Who's coming
 
-✅ Dan and Debbie; Dano, Fran, and Elliot; Jamie, Lozen, and Tula (30 Hallie Ln.)  
+✅ Dan and Debbie Williams clan (30 Hallie Ln.)  
 ✅ Ferrigan and Sanders clan; John Williams (96 Merton St.)  
 ✅ Peters, Schaefer, Pofcher clan (TBD)  
+✅ Andy Williams clan (TBD)  
 
+[map tk]
 
-## 🤔 Good to know
-
-For now, the main thing we want to stress is that coastal weather can be unpredictable and sometimes cold and wet. Adjust your expectations -- and bring layers. More soon!
-
-(What do you want to know? [Email Dano and Fran.](mailto:francesduncan@gmail.com))
 
 ## 🗓️ Family activities + events
 
@@ -42,7 +39,9 @@ We plan to coordinate family potlucks and cookouts, plus local group activities 
 
 We'll collect a few ideas for local activities and sights aside from the group gatherings.
 
+## 🤔 Good to know
 
+For now, the main thing we want to stress is that coastal weather can be unpredictable and sometimes cold and wet. Adjust your expectations -- and bring layers. More soon!
 
 
 > This site is maintained by Dano and Fran. [Email us with questions and suggestions](mailto:francesduncan@gmail.com) or [create a pull request](https://github.com/frangrit/williamsreunion2020.github.io/) to edit directly.
