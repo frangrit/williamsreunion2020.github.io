@@ -23,9 +23,9 @@ Slightly further afield are the communities of Arch Cape and Cannon Beach, a 10-
 
 ### 🙋 Who's coming
 
-- [x] Dan and Debbie; Dano, Fran, and Elliot (30 Hallie Ln.)
-- [x] Ferrigan and Sanders clan; John Williams (96 Merton St.)
-- [x] Peters, Schaefer, Pofcher clan (TBD)
+✅ Dan and Debbie; Dano, Fran, and Elliot (30 Hallie Ln.)  
+✅ Ferrigan and Sanders clan; John Williams (96 Merton St.)  
+✅ Peters, Schaefer, Pofcher clan (TBD)  
 
 
 ## 🤔 Good to know
