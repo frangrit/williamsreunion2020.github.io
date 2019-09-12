@@ -10,9 +10,9 @@ The reunion nexus is at Dan and Debbie Williams' house, at [30 Hallie Lane, Manz
 
 Debbie suggests working with a local realtor to rent a place.
 
-Charlotte Walton
-503-368-2929
-mnzbginfo@gmail.com
+Charlotte Walton  
+503-368-2929  
+mnzbginfo@gmail.com  
 [manzanitabeachgetaway.com](http://manzanitabeachgetaway.com)
 
 You might also try [Airbnb](https://www.airbnb.com/s/Manzanita--OR) or [Vacasa](https://www.vacasa.com/usa/Oregon/Manzanita/).
