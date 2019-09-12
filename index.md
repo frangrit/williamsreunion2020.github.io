@@ -25,6 +25,11 @@ Slightly further afield are the communities of Arch Cape and Cannon Beach, a 10-
 
 [map]
 
+### 🙋 Who's coming
+
+- [x] Dan and Debbie; Dano, Fran, and Elliot (30 Hallie Ln.)
+- [x] Ferrigan and Sanders clan; John Williams (96 Merton St.)
+
 
 ## 🤔 Good to know
 
