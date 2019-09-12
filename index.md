@@ -3,6 +3,8 @@
 - **When:** June 28 - July 5
 - **Where:** Manzanita, OR
 
+Questions? Updates? Grumbles? Get in touch with [Fran](mailto:francesduncan@gmail.com) or [Debbie](mailto:dswdow@mac.com) directly.
+
 
 ## 📍 Location
 
