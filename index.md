@@ -45,7 +45,7 @@ We'll collect a few ideas for local activities and sights aside from the group g
 
 
 
-> This site is maintained by Dano and Fran. [Email us with questions and suggestions](mailto:francesduncan@gmail.com) or [create a pull request](https://github.com/frangrit/williams-2020) to edit directly.
+> This site is maintained by Dano and Fran. [Email us with questions and suggestions](mailto:francesduncan@gmail.com) or [create a pull request](https://github.com/frangrit/williamsreunion2020.github.io/) to edit directly.
 
 
 
