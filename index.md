@@ -35,6 +35,8 @@ Slightly further afield are the communities of Arch Cape and Cannon Beach, a 10-
 
 TK
 
+What do you want to know? [Email Dano and Fran.](mailto:francesduncan@gmail.com)
+
 ## 🎉 Family activities + events
 
 TK
