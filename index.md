@@ -17,6 +17,13 @@ Charlotte Walton
 mnzbginfo@gmail.com  
 [manzanitabeachgetaway.com](http://manzanitabeachgetaway.com)
 
+More rental links:
+
+- [Debbie's curated Airbnb list](https://abnb.me/pT8DS27XVZ)
+- [Sunset Vacation Rentals](https://www.ssvr.com/)
+- [Meredith Lodging](https://www.meredithlodging.com/manzanita-vacation-rental-properties#q=sm_nid%24rc_core_term_locations%24name%3A%22Manzanita%22&sort=random_1568268000%20asc&rows=360)
+- [Manzanita short term rentals](https://ci.manzanita.or.us/_docs/STRListing/2019/WEBSITE-8-27-2019%20STR-BY%20ADDRESS.pdf) — PDF download. Odd number addresses on Beach Street are oceanfront.
+
 You might also try [Airbnb](https://www.airbnb.com/s/Manzanita--OR) or [Vacasa](https://www.vacasa.com/usa/Oregon/Manzanita/).
 
 Slightly further afield are the communities of Arch Cape and Cannon Beach, a 10-20 minute drive from Manzanita.
